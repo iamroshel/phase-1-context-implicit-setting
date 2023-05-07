@@ -1,4 +1,4 @@
-# Context and Implicit Setting
+# Context and Implicit Setting c
 
 ## Learning Goals
 
